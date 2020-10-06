@@ -2,7 +2,7 @@
 # Copyright (C) Hamsterland. All rights reserved.
 # https://projecteuler.net/problem=1
 
-def compute()
+def compute
     ans = 0
     for i in 1..1000 
         ans += i if i % 3 == 0 || i % 5 == 0
@@ -10,8 +10,6 @@ def compute()
     ans
 end
 
-def main()
-    puts compute()
+if $0 == __FILE__
+    puts compute
 end
-
-main()
