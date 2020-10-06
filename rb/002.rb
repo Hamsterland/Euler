@@ -1,6 +1,6 @@
 # Solution to Project Euler Problem 2
 # Copyright (C) Hamsterland. All rights reserved.
-# https://projecteuler.net/problem=1
+# https://projecteuler.net/problem=2
 
 def compute
     ans = 0
