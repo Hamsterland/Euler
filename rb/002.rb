@@ -1,4 +1,4 @@
-# Solution to Project Euler Problem 1
+# Solution to Project Euler Problem 2
 # Copyright (C) Hamsterland. All rights reserved.
 # https://projecteuler.net/problem=1
 
