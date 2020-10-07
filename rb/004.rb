@@ -22,6 +22,3 @@ end
 if $0 == __FILE__
     puts compute
 end 
-
-
- 
