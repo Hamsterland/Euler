@@ -3,8 +3,7 @@
 # https://projecteuler.net/problem=5
 
 def divisible min, max, num 
-    divisors = min..max
-    for i in divisors
+    for i in min..max
         if num % i != 0
             return false 
         end
