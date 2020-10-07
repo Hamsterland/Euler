@@ -4,8 +4,8 @@
 
 def compute
     ans = 0
-    for i in 1..1000 
-        ans += i if i % 3 == 0 || i % 5 == 0
+    for i in 1..999
+        ans += i if i % 3 == 0 or i % 5 == 0
     end
     ans
 end
