@@ -2,12 +2,12 @@
 # Copyright (C) Hamsterland. All rights reserved.
 # https://projecteuler.net/problem=9
 
-LIMIT = 1000
+SUM = 1000
 
 def compute 
-   for a in 1..LIMIT
-       for b in a..LIMIT
-           c = LIMIT - a - b 
+   for a in 1..SUM
+       for b in a..SUM
+           c = SUM - a - b 
            return a * b * c if a * a + b * b == c * c
        end
    end
