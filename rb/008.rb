@@ -1,5 +1,4 @@
-  
-# Solution to Project Euler Problem 7
+  # Solution to Project Euler Problem 7
 # Copyright (C) Hamsterland. All rights reserved.
 # https://projecteuler.net/problem=7
 
