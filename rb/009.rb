@@ -1,3 +1,7 @@
+# Solution to Project Euler Problem 9
+# Copyright (C) Hamsterland. All rights reserved.
+# https://projecteuler.net/problem=9
+
 LIMIT = 1000
 
 def compute 
